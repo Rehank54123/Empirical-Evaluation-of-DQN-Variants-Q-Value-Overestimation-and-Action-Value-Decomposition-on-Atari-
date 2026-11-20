@@ -1,0 +1,12 @@
+# Deep Reinforcement Learning on Atari Dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+gymnasium[atari]>=0.28.1
+ale-py>=0.8.1
+numpy>=1.23.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+opencv-python>=4.7.0
+tqdm>=4.65.0
+
